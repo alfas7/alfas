@@ -5,6 +5,9 @@ pemula yang lagi coba coba belajar qq
 
 
 
+
+
+
 sudo apt update
 sudo apt install python3 python3-pip git -y
 git clone https://github.com/GamalShine/DOS-Attack
