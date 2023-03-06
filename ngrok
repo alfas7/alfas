@@ -1,2 +1,18 @@
 Awac
 Authtoken saved to configuration file: /root/.config/ngrok/ngrok.yml
+
+
+
+                                                                                
+Try our new native Go library: https://github.com/ngrok/ngrok-go                
+                                                                                
+Session Status                online                                            
+Account                       alfas (Plan: Free)                                
+Version                       3.1.1                                             
+Region                        Asia Pacific (ap)                                 
+Latency                       -                                                 
+Web Interface                 http://127.0.0.1:4040                             
+Forwarding                    https://d2bb-125-165-108-152.ap.ngrok.io -> http:/
+                                                                                
+Connections                   ttl     opn     rt1     rt5     p50     p90       
+                              0       0       0.00    0.00    0.00    0.00  
